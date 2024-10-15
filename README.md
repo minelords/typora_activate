@@ -1,5 +1,5 @@
 # typora_activate
-typora的激活方法
+typora的激活方法(请在科学上网后进行激活)
 
 ## 获取激活码
 ### linux
